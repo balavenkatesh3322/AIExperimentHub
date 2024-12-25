@@ -31,10 +31,9 @@ pip install -r requirements.txt
 ## 📝 How to Run the App Locally
 - Clone this repository:
 - cd crop-disease-detection
-- Install the dependencies:
+- export GEMINI_API_KEY="your-api-key"
 - pip install -r requirements.txt
-- Run the Streamlit app:
-- streamlit run app.py
+- Run the Streamlit app: streamlit run app.py
 
 Open your browser and go to localhost:8501 to use the app.
 
