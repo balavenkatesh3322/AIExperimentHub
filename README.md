@@ -6,7 +6,9 @@
 
 ## 🌟 List of AI Projects  
 1. [AI-Powered Threat Modeling Application](./AI-Threat-Modeling)  
-   - Analyze diagrams to identify vulnerabilities and suggest mitigations.  
+   - Analyze diagrams to identify vulnerabilities and suggest mitigations.
+2. [AI-Powered Crop Disease Detection](./AI-Powered-Crop-Disease-Detection)  
+   - Identify potential crop diseases from images and recommend mitigation strategies using AI models.
 
 ---
 
