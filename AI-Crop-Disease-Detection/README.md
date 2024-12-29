@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 
 ## 📝 How to Run the App Locally
-- Clone this repository:
+- Clone this repository
 - cd crop-disease-detection
 - export GEMINI_API_KEY="your-api-key"
 - pip install -r requirements.txt

@@ -5,11 +5,12 @@
 ---
 
 ## 🌟 List of AI Projects  
-1. [AI-Powered Threat Modeling Application](./AI-Threat-Modeling)  
+1. [Threat Modeling Application](./AI-Threat-Modeling)  
    - Analyze diagrams to identify vulnerabilities and suggest mitigations.
-2. [AI-Powered Crop Disease Detection](./AI-Crop-Disease-Detection)  
+2. [Crop Disease Detection](./AI-Crop-Disease-Detection)  
    - Identify potential crop diseases from images and recommend mitigation strategies using AI models.
-
+2. [AI-DevOps Guardian](./AI-DevOps-Guardian)  
+   - AI-DevOps Guardian is an AI-powered tool that analyzes DevOps configuration files to detect misconfigurations, vulnerabilities, and best practice violations.
 ---
 
 ## 🌟 What’s Next?  
