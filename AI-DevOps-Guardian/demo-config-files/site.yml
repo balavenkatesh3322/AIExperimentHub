@@ -1,0 +1,23 @@
+---
+- name: Set up a web server
+  hosts: webservers
+  become: yes
+  tasks:
+    - name: Install Nginx
+      apt:
+        name: nginx
+        state: present
+
+    - name: Start Nginx service
+      service:
+        name: nginx
+        state: started
+        enabled: yes
+
+    - name: Copy index.html
+      copy:
+        src: /files/index.html
+        dest: /var/www/html/index.html
+        owner: www-data
+        group: www-data
+        mode: '0644'
