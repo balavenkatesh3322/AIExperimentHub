@@ -5,13 +5,13 @@
 ---
 
 ## 🌟 List of AI Projects  
-1. [Threat Modeling Application](./AI-Threat-Modeling)  
+1. [Threat Modeling Application](./Threat-Modeling)  
    - Analyze diagrams to identify vulnerabilities and suggest mitigations.
-2. [Crop Disease Detection](./AI-Crop-Disease-Detection)  
+2. [Crop Disease Detection](./Crop-Disease-Detection)  
    - Identify potential crop diseases from images and recommend mitigation strategies using AI models.
-3. [AI-DevOps Guardian](./AI-DevOps-Guardian)  
+3. [DevOps Guardian](./DevOps-Guardian)  
    - AI-DevOps Guardian is an AI-powered tool that analyzes DevOps configuration files to detect misconfigurations, vulnerabilities, and best practice violations.
-4. [AI-Number Plate Identifier](./AI-Number-Plate-Identifier)  
+4. [Number Plate Identifier](./Number-Plate-Identifier)
    -  AI-Number Plate Identifier is an AI-powered tool that extracts details such as the number plate number, vehicle type, model, and detects safety violations (like helmet absence) from vehicle images.
 
 ---
