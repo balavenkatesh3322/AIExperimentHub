@@ -9,8 +9,11 @@
    - Analyze diagrams to identify vulnerabilities and suggest mitigations.
 2. [Crop Disease Detection](./AI-Crop-Disease-Detection)  
    - Identify potential crop diseases from images and recommend mitigation strategies using AI models.
-2. [AI-DevOps Guardian](./AI-DevOps-Guardian)  
+3. [AI-DevOps Guardian](./AI-DevOps-Guardian)  
    - AI-DevOps Guardian is an AI-powered tool that analyzes DevOps configuration files to detect misconfigurations, vulnerabilities, and best practice violations.
+4. [AI-Number Plate Identifier](./AI-Number-Plate-Identifier)  
+   -  AI-Number Plate Identifier is an AI-powered tool that extracts details such as the number plate number, vehicle type, model, and detects safety violations (like helmet absence) from vehicle images.
+
 ---
 
 ## 🌟 What’s Next?  
